@@ -1,36 +1,41 @@
 # My Introduction
 
-My name is **Shadi Aslan**, I graduated as a Mechanical Engineer and decided to pursue a career in the programming world.
-Gaming had a huge influence on my choice, I built few games using unity & c# and decided to join LTUC to pursue a future career in this field.
+My name is **Shadi Aslan**, I graduated as a Mechanical Engineer and decided to pursue a career in the programming world.  
+Gaming had a huge influence on my choice, I built few games using [unity](https://unity.com) & **C#** and decided to join [LTUC](https://www.ltuc.com) to pursue a future career in this field.
 
 <br>
 
 
 # How to be a good developer?
 
-1. Let helping people be the main focus of your software.  
-2. Design systems that can be made and maintained as easily as possible.  
-3. Understand the systems before your deisng, to break the complexity cycle.  
-4. Make your code easy to understand.  
-5. Avoid complexity and pursue a solution that's less complicated.  
-6. Think of future maintenance and prepare for them.  
-7. Be consistent in your way of doing things.  
-8. Follow the D=V/E formula when it comes to priorities.  
-9. Make sure you understand the problem, before you start solving it.  
-10. Take your time and plan for all the details.  
-11. Be generic **BUT ONLY IN THE PRESENT**.  
-12. Design based on what you know now.  
-13. Stop reinvinting code and use the current tools you have.  
-14. Avoid change as much as you can.  
-15. Automation is your best friend.  
-16. Quality over quantity.  
-17. Keep your lines count as little and as effective as possible.  
-18. Test, test and **TEST**!  
-19. Never underestimate.  
-20. Stay away from rewriting code.
-21. Documentation and commenting are you top 2 tools.  
-22. Don't have so much dependencies.
-23. Keep learning.
-24. Know when to quit.
-25. Searching for answers will improve you.  
 
+![Programmer](https://futurebeyondtechnology.com/wp-content/uploads/2019/08/independent-Computer-Programmer.jpg
+)
+
+<br>
+A good developer should always aim to benefit people, build something maintainable and easy to understand. 
+The most important set of skills in this field are:
+<br>
+
+- ### **Good time management:**
+
+  Improving your speed in reaching solutions, avoid wasting your time on rewriting code when it's not necessary or getting stuck in a learning loop should be the 3 main priorities that each good developer possesses.
+
+- ### **Being effecient:**
+
+  Managing your priorities & reducing complexity are the main set of tools you need to  be effecient in writing your code.
+
+- ### **Work smartly:**
+
+  Automation is your best friend in this area, using available libraries instead of rewriting something from scratch or sticking to *"Quality over quantity"* will surely make you the smartest developer in the room.
+
+
+- ### **Last but not least:**
+
+  Keep learning and know when to stop and take a break, you need the rest in order to make your problem solving skills as sharp as they can be.
+
+<hr>
+<br>
+
+*You can also watch this video on the subject:*   
+[What You Need To Do To Become A Great Developer](https://www.youtube.com/watch?v=FNk2NYW-13k)
